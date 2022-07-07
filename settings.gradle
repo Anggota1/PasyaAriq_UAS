@@ -1,0 +1,2 @@
+rootProject.name='PasyaAriq_UAS'
+include ':app'
